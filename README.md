@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayyed-nabeel&show_icons=true&locale=en" alt="sayyed-nabeel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyed-nabeel&" alt="sayyed-nabeel" /></p>
+[![@sayyednabeel's Holopin board](https://holopin.me/sayyednabeel)](https://holopin.io/@sayyednabeel)
