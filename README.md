@@ -1,7 +1,7 @@
 <a href="https://ibb.co/L07RfQ5"><img width="992" src="https://i.ibb.co/Mg0SL86/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.png" alt="102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding" border="0"></a><br />
 <h1 align="center">Hi 👋, I'm Sayyed Nabeel Ahmad</h1>
 <h3 align="center">A passionate frontend developer and Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="Coding" width="100" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyed-nabeel&label=Profile%20views&color=0e75b6&style=flat" alt="sayyed-nabeel" /> </p>
 
