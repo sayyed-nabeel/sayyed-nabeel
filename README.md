@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Big Data Tools & Techniques**
 
 - 📫 How to reach me **nabeel.812k2@gmail.com**
 
